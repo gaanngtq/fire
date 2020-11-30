@@ -2,7 +2,7 @@ Fire is the visible effect of the process of combustion – a special type of ch
 
 The fuel must be heated to its ignition temperature for combustion to occur. The reaction will keep going as long as there is enough heat, fuel and oxygen. This is known as the fire triangle.
 
-
+![Branching](f.jfif)
 The fire triangle
 
 Oxygen, fuel and heat are needed for fire to occur. This is known as the fire triangle.
